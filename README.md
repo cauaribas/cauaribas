@@ -8,7 +8,7 @@ Hi! I'm Cauã Ribas, a passionate web development enthusiast and Computer Scienc
 
 ## Other Skills 🪐
 
-[![Other skills](https://skillicons.dev/icons?i=c,cpp,java,git,github,express,mysql,vscode)](https://skillicons.dev)
+[![Other skills](https://skillicons.dev/icons?i=c,cpp,python,java,git,github,express,mysql,vscode)](https://skillicons.dev)
 
 ## My Stats 🔥
 
