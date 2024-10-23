@@ -11,9 +11,3 @@ Hi! I'm Cauã Ribas, a passionate web development enthusiast and Computer Scienc
 [![Other skills](https://skillicons.dev/icons?i=c,cpp,python,java,git,github,express,mysql,vscode)](https://skillicons.dev)
 
 ## My Stats 🔥
-
-<div>
-  <a href="https://github.com/cauaribas/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauaribas&theme=tokyonight&show_icons=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaribas&layout=compact&theme=tokyonight">
-</div> 
